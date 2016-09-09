@@ -1,0 +1,19 @@
+[
+{
+"DisplayUrl":"Showed Url",
+"Description":"Textual description",
+"Title":"HTML Title",
+"ID":"Bing document ID",
+"__metadata":{"type":"WebResult","uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query='QUERY_FATTA_A_BING'&$skip=0&$top=1"},
+"Url":"Real Document Url"
+},
+
+{
+"DisplayUrl":"Showed Url",
+"Description":"Textual description",
+"Title":"HTML Title",
+"ID":"Bing document ID",
+"__metadata":{"type":"WebResult","uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query='QUERY_FATTA_A_BING'&$skip=0&$top=1"},
+"Url":"Real Document Url"
+}
+]
