@@ -1,6 +1,10 @@
 package it.uniroma3.agiw3.http_connector;
 
 import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
 import java.util.ArrayList;
 
 import org.jsoup.Connection;
@@ -53,5 +57,30 @@ public class HttpConnector {
 			System.out.println("[WebConnector]: "+e.getMessage());
 		}
 		return doc;
+	}
+
+	public static boolean getUrlResponseCodeOk(String url){
+		try{
+			HttpURLConnection huc =  (HttpURLConnection) new URL(url).openConnection(); 
+			huc.setInstanceFollowRedirects(false);
+			huc.setRequestMethod("HEAD");
+			huc.connect(); 
+			int responseCode = huc.getResponseCode();
+			if(responseCode%100 <3)
+				return true;
+		}
+		catch(ProtocolException e){
+			System.out.println(e.getMessage());
+		} 
+		catch (MalformedURLException e) {
+			System.out.println(e.getMessage());
+		} 
+		catch (IOException e) {
+			System.out.println(e.getMessage());
+		}
+		catch(Exception e){
+			System.out.println(e.getMessage());
+		}
+		return false;
 	}
 }
