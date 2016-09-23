@@ -60,8 +60,8 @@ public class NERMaster {
 			DBCursor cursor = collection.find().sort(new BasicDBObject("Query", 1));
 			System.out.println("[NER_Master]: submitting jobs...");
 			int slaves = 0;
-			int offset = 161+176+152+167+153+135+672;
-			int todo = 751;
+			int offset = 1616+1299+1387+716;
+			int todo = 10;
 			String currentName=null;
 			int currentDispatch=-1;
 			while(cursor.hasNext() && slaves < (offset+todo)){

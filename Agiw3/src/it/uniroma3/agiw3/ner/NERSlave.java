@@ -51,25 +51,30 @@ public class NERSlave implements Runnable {
 		try{
 			boolean poison = false;
 			while(!poison){
-				JSONObject jo = this.que.takeLast();
-				if(jo.has("POISON") && jo.getString("POISON").equals("PILL")){
-					System.out.println("[NerSlave "+this.slaveNumber+"]: PoisonPill -> exiting");
-					poison=true;
+				try{
+					JSONObject jo = this.que.takeLast();
+					if(jo.has("POISON") && jo.getString("POISON").equals("PILL")){
+						System.out.println("[NerSlave "+this.slaveNumber+"]: PoisonPill -> exiting");
+						poison=true;
+					}
+					else{
+						String url = jo.getString("Url");
+						String name = jo.getString("Query");
+						String html = jo.getString("HTML");
+						long sleepTime = SleepTime.calc(this.sleepMin, this.sleepMax);
+						System.out.println("[NerSlave "+this.slaveNumber+"]: ("+name+")\t("+sleepTime+" sleep) start-on\t"+url);
+						try {
+							Thread.sleep(sleepTime);
+						}
+						catch(InterruptedException e){
+							System.out.println(e.getMessage());
+						}
+						exec(url, name, html);
+						System.out.println("[NerSlave "+this.slaveNumber+"]: ("+name+")\tOK\t\t\t"+url);
+					}
 				}
-				else{
-					String url = jo.getString("Url");
-					String name = jo.getString("Query");
-					String html = jo.getString("HTML");
-					long sleepTime = SleepTime.calc(this.sleepMin, this.sleepMax);
-					System.out.println("[NerSlave "+this.slaveNumber+"]: ("+name+")\t("+sleepTime+" sleep) start-on\t"+url);
-					try {
-						Thread.sleep(sleepTime);
-					}
-					catch(InterruptedException e){
-						System.out.println(e.getMessage());
-					}
-					exec(url, name, html);
-					System.out.println("[NerSlave "+this.slaveNumber+"]: ("+name+")\tOK\t\t\t"+url);
+				catch(Exception e){
+					System.out.println("[NerSlave "+this.slaveNumber+"]: UNCATCHED EXCEPTION, skipped");
 				}
 			}
 		}
