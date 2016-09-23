@@ -10,7 +10,7 @@ public enum AlchemyKeyOwners {
 	luca_gmail,
 	luca_fast,
 	ecomarz_tiscali,
-	ecomarzi_gmail,
+	ecomarz_gmail,
 	paola_gmail,
 	paola_tiscali;
 	
