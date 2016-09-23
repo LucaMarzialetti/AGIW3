@@ -3,10 +3,16 @@ package it.uniroma3.agiw3.ner;
 import java.util.LinkedList;
 
 public enum AlchemyKeyOwners {
-//	hotmail,
-//	tiscali,
-	yahoo,
-	stud;
+	//	luca_tiscali,
+	//	luca_hotmail,
+	luca_yahoo,
+	luca_stud,
+	luca_gmail,
+	luca_fast,
+	ecomarz_tiscali,
+	ecomarzi_gmail,
+	paola_gmail,
+	paola_tiscali;
 	
 	/*return a list of string containing all the enumeration values*/
 	public static LinkedList<String> names() {
