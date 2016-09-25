@@ -26,7 +26,7 @@ Alexandra Kate Abrahams,15						k 153
 Alison Abbotts,7						
 Amanda Adamson,45
 Amanda Elizabeth Ann Lemesle Adams,38
-Amar Subhash Adatia,46							k 135
+Amar Subhash Adatia,46							k 136
 
 Andrew Acton,32
 Andrew Carl Adams,42
@@ -46,7 +46,7 @@ Anne Margaret Ackroyd,46						k 181
 Anthony Michael Hartley Adamson,43
 Antoine Marie Adeline,27
 Arsalan Abbasi,41
-Asif Abubaker,43								k 154 = 1616
+Asif Abubaker,43								k 154 = 1617
 
 Atif Abbas,42
 Ayisha Adetola Adedeji,42
@@ -176,377 +176,377 @@ Eugenie Nicola Adams,17							k 38
 Eva Rose Abeles,4
 Faddy Abdelmalik,18
 Faizza Abla,2
-Farrukh Abbas,33								k 57 <- 726 ne restano 10
+Farrukh Abbas,33								k 57 
 
 Farsheed Abdul Rahman,47
 Fay Acklam,42
 Ferdinand Ebele Achom,39
-Feroze Abbas,34									162
+Feroze Abbas,34									k 162
 
 Fiona Mary Adams,34
 Francis Okello Abe,44
 Francis Rodney Abbott,46
-Frank Achilles,48								172
+Frank Achilles,48								k 172
 
 Frank Donald Addis,46
 Garry Michael Abrams,47
 Gary Ackinclose,40
-Gary Adams,16									149
+Gary Adams,16									k 149
 
 Gary Anthony Adamson,45
 Gavin John Acheson,29
 Gemma Winifred Adams,27
-Geoffrey Adamson,46								147 = 1356
+Geoffrey Adamson,46								k 147 = 1356
 
 Glyn John William Adams,45
 Gordon Herbert Adam,44
 Grace Abu,40
-Graham Aaronson,34								163 ->
+Graham Aaronson,34								k 163 ->
 
 Gregory Abrams,33
 Gregory Richard John Adams,28
 Guy Abrahams,16
-Guy Andrew Adams,36								113
+Guy Andrew Adams,36								k 113
 
 Guy Brandon Abbiss,17
 Hannah Jade Adams,9
 Harold Joseph Acton,20
-Harry Mischa Abrams,44							90
+Harry Mischa Abrams,44							k 90
 
 Heather Suzanne Adams,14
 Hedley John Adcock,17
 Helen Abraham,12
-Helen Achilleos,45								88
+Helen Achilleos,45								k 88
 
 Helen Annabel A'Bear,46
 Helen Louise Abel,48
 Henrietta Charlotte Addams Williams,46
-Henry Norris Adams,43							183
+Henry Norris Adams,43							k 183
 
 Hiba Jama Abdullahi,46
 Ian David Abel,46
 Ipek Abdullah,44
-Irfana Altaf Abbasi,42							178
+Irfana Altaf Abbasi,42							k 178
 
 Isaac Adebowale Adelakun,43
 Ivor Samuel Adair,42
 Ivy Torino Acorda,46
-Jakub Adam,45									176
+Jakub Adam,45									k 176
 
 James Abbott,44
 James Adams,48
 James Anthony Girvan Abbott,40
-James Stephen Adams,45							177
+James Stephen Adams,45							k 177
 
 James Stuart Alexander Abbott,45
 James Tristan Addison,47
 Jayne Briony Adams,30
-Jayne Elizabeth Acklam,35						157
+Jayne Elizabeth Acklam,35						k 157
 
 Jayne Emma Aarons,39
 Jenine Khaled Abdo,40
 Jennifer Ackerman,5
-Jeremy Alexander Abram,11						95 = 1420
+Jeremy Alexander Abram,11						k 95 = 1420
 
 Jeremy Franklin Abraham,8
 Jessica Helen Adam,21
 Jitendrakumar Acharya,14
-Joanna Abrahams,22								65 ->
+Joanna Abrahams,22								k 65 ->
 
 Joanna Mary Addison,45
 Joanna Tracey Addison,41
 Joanne Louise Adams,49
-Joe David Abbott,46								181
+Joe David Abbott,46								k 181
 
 John Adams,49
 John Anthony David Adams,47
 John Cameron Abbott,46
-John Daniel Abiodun Adebiyi,41					183
+John Daniel Abiodun Adebiyi,41					k 183
 
 John Mark Abbott,42
 John Michael Adams,44
 John Robert Adams,47
-John Russell Ablett,41							174
+John Russell Ablett,41							k 174
 
 Jonathan Neil Abrams,47
 Jonathan Yaw Apea Achampong,41
 Jordana Patricia Adams,36
-Joseph Samuel Abudarham,33						157
+Joseph Samuel Abudarham,33						k 157
 
 Judith Eva Abram,48
 Julia Anne Abrey,29
 Julia Maria Adams,43
-Julian Anthony Acratopulo,38					158
+Julian Anthony Acratopulo,38					k 158
 
 Julian Richard Abbott,7
 Julian Rodney Abraham,28
 Julie Ann Adams,22
-Julie Helen Acock,11							68
+Julie Helen Acock,11							k 68
 
 Justin Paul Ablott,18
 Kalpana Jitendra Acharya,7
 Kate Helen Adamson,13
-Katherine Adam,11								49
+Katherine Adam,11								k 49
 
 Katherine Fiona Adams,7
 Katherine Helen Ackroyd,43
 Kathryn Elisabeth Abrahams,45
-Katie Jane Adams,47								142
+Katie Jane Adams,47								k 142
 
 Kenneth Alexander Adams,41
 Kenneth James Addly,7
 Keren Cory Adams,45
-Kerry Ann Addison,46							139 = 1316
+Kerry Ann Addison,46							k 139 = 1316
 
 Kerry Elizabeth Adcock,47
 Kirin Abbas,44
 Kirsty Marie Adamson,40
-Kyle Jonathan Adams,49							180 ->
+Kyle Jonathan Adams,49							k 180 ->
 
 Lana Rosemary Abrey,46
 Lara Adamson,42
 Lateef Oladimeji Adegoke,38
-Laura Abbott,44									170			
+Laura Abbott,44									k 170			
 
 Laura Anne Ablett,21
 Laura Anne Adams,47
 Lauren Abbs,43
-Lauren Claire Addy,20							131
+Lauren Claire Addy,20							k 131
 
 Laurence William Abrahams,47
 Lawrence Howard Abramson,43
 Lawrence Philip Adams,23
-Leanne Adamson,13								126
+Leanne Adamson,13								k 126
 
 Lee Adams,23
 Leenamari Aantaa-Collier,16
 Leila Abdul-Rasool,2
-Leith Faisal Abu-Moghli,31						72
+Leith Faisal Abu-Moghli,31						k 72
 
 Leonie Kate Adam,9
 Lewis John Addison,7
 Liselette Jane Adams,46
-Lorraine Georgina Adams,16						78
+Lorraine Georgina Adams,16						k 78
 
 Louise Abrahams,41
 Louise Adams,36
 Louise Ann Adams,44
-Louise Clare Abbott,37							158
+Louise Clare Abbott,37							k 158
 
 Lucy Aconley,42
 Lucy Adams,44
 Lynette Ann A'Court,40
-Lynne Margaret Abbess,30						156
+Lynne Margaret Abbess,30						k 156
 
 Lynne Mary Adams,45
+MD Zoynal Abedin,39
 Madeleine Nasim Abas,43
-Magdi Fawzi Adab,43
-Mahie Abey,44									175
+Magdi Fawzi Adab,43								k 170
 
+Mahie Abey,44									
 Mahmood Saeed Abdillahi Abdi,39
 Malcolm John Gordon Abaza,46
-Malcolm Louis Abel,24
-Mallika Abidi,38								147 = 1393
+Malcolm Louis Abel,24							k 153 = 1394
 
+Mallika Abidi,38								
 Marc Gary Abrahams,15
 Maria Nerissa Abesamis,34
-Mark Abrams,14
-Mark Abrol,11									74 ->
+Mark Abrams,14									k 101 ->
 
+Mark Abrol,11									
 Mark Adams,29
 Mark Andrew Abbott,1
-Mark Edward Adams,16
-Mark Hedley Adcock,19							65
+Mark Edward Adams,16							k 57
 
+Mark Hedley Adcock,19							
 Mark Richard Adams,1
 Maroun Abinader,22
-Martin Jeremy Ackland,14
-Martin Kenneth Addrison,15						52
+Martin Jeremy Ackland,14						k 56
 
+Martin Kenneth Addrison,15						
 Maryam Adamji,20
 Matthew John Adams,16
-MD Zoynal Abedin,39
-Melis Efser Acuner,33							108
+Melis Efser Acuner,33							k 84
 
 Michael Adam,29
 Michael Gerard George Adamson,23
 Michael Kevin Ackland,44
-Mikhail Adam Khan,39							135
+Mikhail Adam Khan,39							k 135
 
 Mohamed Abdi,40
 Mohammad Hilaal Abu Bakar,41
 Mohammed Abdulkuddus,42
-Mohammed Abid,32								155
+Mohammed Abid,32								k 155
 
 Mohsin Sarwar Abbasi,27
 Muhammad Abdul-Halim,36
 Muhammad Shah Abu Bakar,43
-Muhammad Tahir Abdullah,24						130
+Muhammad Tahir Abdullah,24						k 130
 	
 Mussarut Abbas,13
 Mustafa Salah Adam,35
 Muzammil Hussain Abid,9
-Naima Abdul-Rasool,26							83
+Naima Abdul-Rasool,26							k 83
 
 Naomi Sophia Abraham-Bello,35
 Natalie Alexis Abbott,44
 Natasha Louisa Adams,43
-Naveed Abraham,19								141
+Naveed Abraham,19								k 141
 
 Nazira Adam,10
 Ndidi Cidia Abraham,2
 Neil Forbes Addison,26
-Neil Kenneth Philip Adams,3						41 = 984
+Neil Kenneth Philip Adams,3						k 41 = 983
 
 Neil Richard Donald Abbott,47
 Nicholas Acomb,46
 Nicholas Charles Henry Adams,46
-Nicholas Daniel Adams,45						184 ->
+Nicholas Daniel Adams,45						k 184 ->
 
 Nicholas James Abbott,45
 Nicholas James Springett Addyman,45
 Nicholas Quilter Abell,47
-Nico Abel,45									182
+Nico Abel,45									k 182
 
 Nicola Acton,15
 Nicole Abbott,35
 Nigel Adams,47
-Nigel Jason Stephen Adams,42					139
+Nigel Jason Stephen Adams,42					k 139
 
 Niyi Ajani Aborisade,20
 Noeline Priyadharshini Narmadha Abeysekera,12
 Noura Abdul-Cader,39
-Olawale Adekunle Adebayo,40						111
+Olawale Adekunle Adebayo,40						k 111
 
 Oliver Desmond Abel Smith,29
 Olufunke Ajayi Adekoya,24
 Oluwayinka Taiwo Adebiyi,32
-Orumwense Ese Adams-Aliu,27						112
+Orumwense Ese Adams-Aliu,27						k 112
 
 Osama Abu-Dehays,29
 Oscar Abeti Caparros,13
 Pascale Cerise Adam,41
-Patrick Jevon Abraham,14						97
+Patrick Jevon Abraham,14						k 97
 
 Paul Aberdein,43
 Paul Abraham,43
 Paul Anthony Abbott,21
-Paul Anthony Ackroyd,46							153
+Paul Anthony Ackroyd,46							k 153
 
 Paul Anthony Addington,47
 Paul Eamon Adamson-Stewart,46
 Paul James Adam,13
-Paul Roger Addison,43							149
+Paul Roger Addison,43							k 149
 
 Paula Abrahamian,41
 Paula Adams,46
 Paula Danielle Ade,43
-Peter Abel,39									169
+Peter Abel,39									k 169
 
 Peter Adebola Okikiolu Adediran,35
 Peter Jonathan Adams,49
 Peter Malcolm A'Court,45
-Peter William Abbott,45							174 = 1470
+Peter William Abbott,45							k 174 = 1470
 
 Petty Patricia Abrams,45
 Philip Adamis,40
 Philip Douglas Abbott,44
-Philip Mark Abell,45							174 ->
+Philip Mark Abell,45							k 174 ->
 
 Philippa Jane Addison,30
 Phillip John Adam,41
 Priscilla Naa Dedei Addo-Quaye,31
-Prudence Ann Abrahams,40						142
+Prudence Ann Abrahams,40						k 142
 
 Rabia Abboushi,18
 Rachael Diane Aaron,49
 Rachael Fay Adams,4
-Rachel Addai,14									85
+Rachel Addai,14									k 85
 
 Rachel Anne Abel,9
 Rachel Elizabeth Adams,34
 Rachel Jane Adamson,12
-Raid Abu Manneh,44								99
+Raid Abu Manneh,44								k 99
 
 Rashida Amina Abdulai,39
 Rebecca Abraham,41
 Rhona Adams,48
-Riccardo Vincenzo Abbate,39						167
+Riccardo Vincenzo Abbate,39						k 167
 
 Richard Adams,47
 Richard Anthony Adams,48
 Richard Arthur Adams,46
-Richard Charles Abbott,45						186
+Richard Charles Abbott,45						k 186
 
 Richard Edward Abrahams,42
 Richard Hardy Ablitt,44
 Richard Kinnear Adamson,39
-Richard Mark Aborn,47							172
+Richard Mark Aborn,47							k 172
 
 Richard Martin Adams,43
 Rizwana Kauser Abbas,17
 Robert Arthur Adams,35
-Robert Craig Adam,48							143
+Robert Craig Adam,48							k 143
 
 Robert Douglas Aberdein,46
 Robert Elliot Adam,26
 Robert Keith Addlestone,48
-Robert Neil Acheson-Gray,14						134
+Robert Neil Acheson-Gray,14						k 134
 
 Robert Thomas Adam,46
 Robert Thomas Adams,16
 Robin Acworth,18
-Robin Guy Abraham,37							117 = 1419
+Robin Guy Abraham,37							k 117 = 1419
 
 Robin James Adams,39
 Roger George Addington,48
 Roger James Acock,15
-Rohana Lanka Abeywardana,43						145 ->
+Rohana Lanka Abeywardana,43						k 145 ->
 
 Rory William Abel,44
 Rosemary Elizabeth Adamson,45
 Rufia Koser Adalat,40
-Russell Mark Abrahams,46						175
+Russell Mark Abrahams,46						k 175
 
 Ruth Aberdein,43
 Ruth Elizabeth Abernethy,46
 Ruth Marcelle Sarah Abrams,47
-Sahabudeen Abdul Hamid,46						182
+Sahabudeen Abdul Hamid,46						k 182
 
 Saikat Acharjee,39
 Saira Abbas,41
 Sajit Maboob Abbas,24
-Saleem Ashrafi Adam,43							147
+Saleem Ashrafi Adam,43							k 147
 
 Sally Lynne Addis,23
 Sally Marie Adams,46
 Sam Abrahams,29
-Samantha Helena Adams,9							107
+Samantha Helena Adams,9							k 107
 
 Samantha Maxine Abel,46
 Samer Salah Abdelhaq,21
 Sanjarbek Akhmadjonovich Abdukhalilov,9
-Sara Abou-Jaoude,35								111
+Sara Abou-Jaoude,35								k 111
 
 Sara Anne Acheson,33
 Sarah Abdelmalek,39
 Sarah Acton,46
-Sarah Emily Achilles,45							163
+Sarah Emily Achilles,45							k 163
 
 Sarah Jane Ackland,46
 Sarah Lucy Adams,47
 Saskia Tarayn Abbot,38
-Sean Michael Adams,44							175
+Sean Michael Adams,44							k 175
 
 Seema Rani Abbas Javed,46
 Sharif Kamal Abousaada,39
 Siddik Aboobaker,33
-Simon Aaron,13									131
+Simon Aaron,13									k 131
 
 Simon Abbotts,45
 Simon Allon Adam,27
 Simon Charles Adamson,49
-Simon Hugh Arden Acworth,46						167 = 1503
+Simon Hugh Arden Acworth,46						k 167 = 1503
 
 Simon Michael Abbott,44
 Simon Robert Ackland,38

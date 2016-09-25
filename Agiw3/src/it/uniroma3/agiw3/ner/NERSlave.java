@@ -42,8 +42,8 @@ public class NERSlave implements Runnable {
 		this.s = s;
 		this.so = so;
 		this.akmC = new AlchemyClient(this.alchemyKey);
-		this.sleepMin = 3000;
-		this.sleepMax = 10000;
+		this.sleepMin = 1000*8;
+		this.sleepMax = 1000*2*8;
 	}
 
 	@Override

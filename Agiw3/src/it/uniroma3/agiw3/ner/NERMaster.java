@@ -59,9 +59,12 @@ public class NERMaster {
 			DBCollection collection = db.getCollection(this.inputCollection);
 			DBCursor cursor = collection.find().sort(new BasicDBObject("Query", 1));
 			System.out.println("[NER_Master]: submitting jobs...");
+			//number of the current db object
 			int slaves = 0;
-			int offset = 1616+1299+1387+716;
-			int todo = 10;
+			//number of objects to skip
+			int offset = 1617+1299+1387+1356+1420+1316+1394+983+1470+1419+1503+1321+521;
+			//number of objects to do after skipped
+			int todo = 0;
 			String currentName=null;
 			int currentDispatch=-1;
 			while(cursor.hasNext() && slaves < (offset+todo)){
