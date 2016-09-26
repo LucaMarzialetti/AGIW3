@@ -1,0 +1,404 @@
+--url_fb https://www.facebook.com/naveed.abraham
+--friends
+VM32892:3 Shafaq Shaaky Ahmed
+VM32892:3 Amar Rashid
+VM32892:3 Akhmed Yakoob
+VM32892:3 Iftikhar Hussain Roopyal
+VM32892:3 Sarah Goodwin
+VM32892:3 Javed Khan
+VM32892:3 Ch Mohammed Shakil
+VM32892:3 Waheed Mohammed Ibrar
+VM32892:3 Sarah Derouiche
+VM32892:3 Ash Ahmed
+VM32892:3 Umar Khan
+VM32892:3 Sarfraz Ahmed
+VM32892:3 Billy Hussain
+VM32892:3 Rayana Ahmed
+VM32892:3 Haider Abbas Abbas
+VM32892:3 Choudry ArifDad
+VM32892:3 Monjur Ahměd
+VM32892:3 Aky Jatt
+VM32892:3 Mohammed Olly
+VM32892:3 Ajmal Shabbir Chaudhary
+VM32892:3 Adris Yasin
+VM32892:3 Shamraise Safdar
+VM32892:3 Mahmood Rashid
+VM32892:3 Talha Javed
+VM32892:3 Neha Razzaq
+VM32892:3 Mushtaq Ahmed
+VM32892:3 Choudhry Zulfiqar Ali
+VM32892:3 Ziafat Ali
+VM32892:3 Khan Carpets
+VM32892:3 Cllr Javaid Akhtar
+VM32892:3 Adam Lowe
+VM32892:3 Katherine Langley
+VM32892:3 Tayyaba Azhar
+VM32892:3 Saleem Butt
+VM32892:3 Israr Ahmed
+VM32892:3 Zaheer Abbas Malik
+VM32892:3 Jameel Akhtar
+VM32892:3 Mrvapez Azmat Rehan
+VM32892:3 Zulfiqar Ali Khan
+VM32892:3 Hassan Mahmood
+VM32892:3 Adeel Ahmed
+VM32892:3 Zulfiqar Ahmed Matyalvi
+VM32892:3 Rashid Khan Alizai
+VM32892:3 Kishwer Kish
+VM32892:3 Naeem Malik
+VM32892:3 Innit Tho
+VM32892:3 Ghafoor Latif
+VM32892:3 Zakia Bbi
+VM32892:3 Saima Inam
+VM32892:3 Azar Leeds Precious Moments
+VM32892:3 Tahir Naveed
+VM32892:3 Nav Abraham
+VM32892:3 Abdul Ghaffar
+VM32892:3 Majid Mahmood
+VM32892:3 Ali Mohammed
+VM32892:3 Waseem Zaffar
+VM32892:3 Tahir Ali Councillor
+VM32892:3 Mohammed Ali
+VM32892:3 Nadia Rasul
+VM32892:3 Arfan Khan
+VM32892:3 Taz Ghulam
+VM32892:3 Wajid Burkey
+VM32892:3 Naseer Ahmed Adv
+VM32892:3 Sam Amreen
+VM32892:3 Khalil Ahmed
+VM32892:3 Chaudry Nadeem Badhal
+VM32892:3 Mohammed Jamil
+VM32892:3 Arif Chohan
+VM32892:3 Iqtasham Sunny
+VM32892:3 Raja Amin JP Mbe
+VM32892:3 Shafqaat Mustafa
+VM32892:3 Karamat Hussain Choudhary
+VM32892:3 Shahid Akhtar
+VM32892:3 Shabir Ahmed Ch
+VM32892:3 Mohammed Hafeez
+VM32892:3 Marley Khan
+VM32892:3 Shokat Ali
+VM32892:3 Mariam Khan
+VM32892:3 Waqaar Sundal
+VM32892:3 Salma Arif
+VM32892:3 Javed Butt
+VM32892:3 Zoe Bibi
+VM32892:3 Birmingham Daily Jang
+VM32892:3 Khalid Warraich
+VM32892:3 Micheal Adz
+VM32892:3 M Afzaal Chaudary
+VM32892:3 Jas Nagra
+VM32892:3 Asif Bashir
+VM32892:3 Kulsum Patel
+VM32892:3 Ch Arshad
+VM32892:3 Kaumudi Lewke Bandara
+VM32892:3 Tasnim Kamran Alvi
+VM32892:3 Naseer Ahmed
+VM32892:3 Razaq Hussain
+VM32892:3 Sadia Khan
+VM32892:3 Vishal Bedi
+VM32892:3 Bano Ali
+VM32892:3 Muhammad Ahtsham
+VM32892:3 Saheed Piddy Khan
+VM32892:3 Farukh Qurban
+VM32892:3 Umbreen Ali
+VM32892:3 Shahin Ashraf
+VM32892:3 Ali Abbas
+VM32892:3 Bury Cakes
+VM32892:3 Afzal Akram
+VM32892:3 Shelley Ali
+VM32892:3 Javed Akhtar
+VM32892:3 RJ Anila Aslam
+VM32892:3 Palwinder Aujla
+VM32892:3 Fariha Ahmad
+VM32892:3 Jay K Bali
+VM32892:3 Alfie Aziz
+VM32892:3 Usman Ahmed
+VM32892:3 Mo Arif
+VM32892:3 Kenny Bada KBad
+VM32892:3 Jamal R Ali
+VM32892:3 Sarwar Asiana
+VM32892:3 Muhammad Ayyub Mbe
+VM32892:3 Kabir Ali
+VM32892:3 Shehneela Ahmed
+VM32892:3 Gabriel Agyei
+VM32892:3 Avtar Singh Brar
+VM32892:3 Ali Charmi
+VM32892:3 Malik Aamir Shahzad Awan
+VM32892:3 Ansar Asghar
+VM32892:3 Abo Anas Abo Rayan
+VM32892:3 Aftab Azad
+VM32892:3 Aqib Akhter
+VM32892:3 Khalid Aziz
+VM32892:3 Mona Ali
+VM32892:3 Mumba Chakulya
+VM32892:3 CH Javed Burk
+VM32892:3 Subhan Malik Shafiq
+VM32892:3 Mahamad Amir
+VM32892:3 Raees Akhtar
+VM32892:3 Raees Ahmed
+VM32892:3 Masood Akbarzai
+VM32892:3 Sheri Ali
+VM32892:3 Iftikhar Ali
+VM32892:3 Faz Bibi
+VM32892:3 Qasim Hussain Roopyal
+VM32892:3 Omi Rahman
+VM32892:3 Mohammed Shafiq
+VM32892:3 Muhammad Zahid
+VM32892:3 Winston Gulmound Chacha Rasta
+VM32892:3 Ch Dawood Bandorvi
+VM32892:3 Babygifts Naz
+VM32892:3 Shoaib Mahmood Ghazali
+VM32892:3 Misbah Khan
+VM32892:3 Priya Singh Amburfm
+VM32892:3 Nazir Awan
+VM32892:3 Clément Blain
+VM32892:3 Murad Ali
+VM32892:3 Rizwan Ali Dar
+VM32892:3 Jamil Amin
+VM32892:3 Priya Katwa
+VM32892:3 Christie Whittam
+VM32892:3 Naveed Anwar
+VM32892:3 Sho Ali
+VM32892:3 Tariq Azim
+VM32892:3 Khaliq Noor
+VM32892:3 Muji Haider
+VM32892:3 Shah Hussain
+VM32892:3 ShaHeed BhUtto NasiRabad
+VM32892:3 Raja Khalid
+VM32892:3 Maqbool Hussain
+VM32892:3 Bava Ditta
+VM32892:3 سمیرا اکرم
+VM32892:3 Aftab Hussain Ch
+VM32892:3 Sajid Ali Masoomi
+VM32892:3 Munir 'Billa' Noor
+VM32892:3 Mohammed Nadeem
+VM32892:3 Shokat Ali
+VM32892:3 Assad Ilyas
+VM32892:3 Murtaza Serwer Khan
+VM32892:3 Israr Ahmed
+VM32892:3 Logo Graphics
+VM32892:3 Mohammed Saleem
+VM32892:3 Miista Hassan
+VM32892:3 Adam New Jatt
+VM32892:3 ParkLives Coca-Cola GB
+VM32892:3 Nazara Najak
+VM32892:3 Gulzar Khan
+VM32892:3 Sharon Roda
+VM32892:3 Rachael Williams
+VM32892:3 Tahir Mirza
+VM32892:3 Rafaqat Hussain
+VM32892:3 Raja Sajid Mahmood Zia
+VM32892:3 Bushra Babz
+VM32892:3 Mahmood Hussain
+VM32892:3 Dwi Rahayu
+VM32892:3 Maya Masipun
+VM32892:3 Luca Chico Inabit
+VM32892:3 Ninder Johal
+VM32892:3 Nafeesa Khan
+VM32892:3 Hira Malik
+VM32892:3 Chaudary Karamat Hussain
+VM32892:3 Nads Sugar Rush
+VM32892:3 Catrin Nye
+VM32892:3 Azad Kashmir Siyasi Mela
+VM32892:3 Javed Iqbal
+VM32892:3 Hameeda Hussani
+VM32892:3 Aneela Nadeem
+VM32892:3 Mo Jahangir
+VM32892:3 Rukhsana Kauser
+VM32892:3 Irshad Hameed Gardezi
+VM32892:3 Abid Hussain
+VM32892:3 Raja Najabat Hussain
+VM32892:3 Khalil Ullah Khan
+VM32892:3 Tibuski Print
+VM32892:3 Fozia Rafiq
+VM32892:3 Kurta Kurti
+VM32892:3 Gurdev Singh
+VM32892:3 Elise Horton
+VM32892:3 Qamar ZK
+VM32892:3 Anwar Khan Ktk
+VM32892:3 Camran Khan
+VM32892:3 Perrybarr Hamstead Handsworth Cars
+VM32892:3 Victoria Oyedele
+VM32892:3 Lilia Garby
+VM32892:3 Shanaz Saddique
+VM32892:3 Nadia Riaz
+VM32892:3 AD Zaheer
+VM32892:3 Sheikh Hameed
+VM32892:3 Mabs Khan
+VM32892:3 Chaudhry Javed
+VM32892:3 Ghulam Murtaza
+VM32892:3 Habib Rehman
+VM32892:3 Javed Malik
+VM32892:3 Shakeel Fida
+VM32892:3 Shezad Imran Hussain
+VM32892:3 Atif Iqbal
+VM32892:3 Shafiq Mohammed
+VM32892:3 Ch Mana Khadam
+VM32892:3 Syed Abid Kazmi
+VM32892:3 Saafi Khan
+VM32892:3 Sema Clive
+VM32892:3 Mohammad Yaqoob Khan Raja
+VM32892:3 Zafar Iqbal Mbe
+VM32892:3 Khurram Shahzada
+VM32892:3 Judith Kirton-Darling
+VM32892:3 Nabeel M
+VM32892:3 Arshad Mehmood
+VM32892:3 Rizwan Mohammed
+VM32892:3 Farzand E Mirpur
+VM32892:3 Ubaid Khan
+VM32892:3 Zara Holly Kendrick
+VM32892:3 Afzal Hussain Shah
+VM32892:3 Jamal Jamoom
+VM32892:3 Nina Khan
+VM32892:3 Muhim Tanjib
+VM32892:3 Shaz IA
+VM32892:3 Zeb Ghani Choudhry
+VM32892:3 Amjad Pervez
+VM32892:3 Mohammed Jamil
+VM32892:3 Mustansar Rashid
+VM32892:3 John Snell
+VM32892:3 Taz Hussain
+VM32892:3 Raja Tahir Masood
+VM32892:3 Wajid Mahmood Khokar
+VM32892:3 Imran Younis
+VM32892:3 Khawaja Murad Hameed
+VM32892:3 Muhammad Tufail
+VM32892:3 Sajid Yousaf
+VM32892:3 Michelle Harris
+VM32892:3 Yasmin Lalani Ahmed
+VM32892:3 Ch Rukhsar Ahmed Thothal
+VM32892:3 Jasbir Wouhra
+VM32892:3 Chakswari Politics
+VM32892:3 Nasser Mahmood
+VM32892:3 Mohammed Saleem
+VM32892:3 Shabrana Hussain
+VM32892:3 Waheed Hussain
+VM32892:3 Mohammed Khalid Kiyani
+VM32892:3 Keran Iqbal
+VM32892:3 Yaqoob Hussain
+VM32892:3 Lena Kay
+VM32892:3 Ali Hashmi
+VM32892:3 Shaf Hussain
+VM32892:3 Zahid Mughal
+VM32892:3 Tasawar Hussain
+VM32892:3 Qaiser Bari Chaudhary
+VM32892:3 Shoukat Chaudhry
+VM32892:3 Shania Khan
+VM32892:3 Hassan Raaza
+VM32892:3 Janaka Eran Wijasuriya
+VM32892:3 Tiffa Rayann
+VM32892:3 Manjit Virdi
+VM32892:3 Arshad Mehmood
+VM32892:3 Rupi Hayer-Chohan
+VM32892:3 Israr Ali Choudhary
+VM32892:3 Fida Hussain
+VM32892:3 Dawud Jatt
+VM32892:3 Shakeel Shakeel
+VM32892:3 Dil Pazeer
+VM32892:3 Supreet Gill
+VM32892:3 Kamran Iqbal Mughal
+VM32892:3 Walayat Haider
+VM32892:3 Ch Hamid Pothi
+VM32892:3 Ayaan Javeed
+VM32892:3 Md Shahjalal
+VM32892:3 Shazad Saleem
+VM32892:3 Naz Khan
+VM32892:3 Shak Khan
+VM32892:3 Manii Dhillon
+VM32892:3 Munib Jav
+VM32892:3 Shmes Ali Zeb
+VM32892:3 Israr Rock
+VM32892:3 Mortouba Diop
+VM32892:3 Majida Saleem
+VM32892:3 Ch Zam Rehman
+VM32892:3 Abdul Razzaq
+VM32892:3 Hafiz Junud Uddin Maktoom
+VM32892:3 Nasir Mehmood
+VM32892:3 Afique Miah
+VM32892:3 Kousar Mohmmad
+VM32892:3 Saima Rafique
+VM32892:3 Fadlahoui Rami
+VM32892:3 Usman Malik
+VM32892:3 Sajid Aman
+VM32892:3 Oluwafunmilayo Emmanuel
+VM32892:3 Tanveer Ghazali
+VM32892:3 Sajid Hussain
+VM32892:3 Witton Masjid
+VM32892:3 Yuk Wa Li
+VM32892:3 Haji Mohammed Jameel Badhal
+VM32892:3 Bilal Saeed
+VM32892:3 Mohammed Salim
+VM32892:3 Ash Skyline
+VM32892:3 Nasar Khan
+VM32892:3 Prime Property
+VM32892:3 Romanus  Check
+VM32892:3 Seeraah Famida Akhtar Malik
+VM32892:3 Saj Hussain
+VM32892:3 Mohan Singh Tanwar
+VM32892:3 Yashpreet Kaur
+VM32892:3 Aslam Nawaz Choudhry
+VM32892:3 Yasir Imtiaz
+VM32892:3 Birmingham Taxis
+VM32892:3 Shah Ji
+VM32892:3 Mateen Sehrai
+VM32892:3 Sarfraiz Hussain
+VM32892:3 Harry Haran
+VM32892:3 Imran Hussain
+VM32892:3 Jan Stevans Janjua
+VM32892:3 Muhammad Nadeem Sultani
+VM32892:3 Inam Ul Haq Nami
+VM32892:3 Sarfraz Ahmad
+VM32892:3 Aqeel Sabir Choudhry
+VM32892:3 Ash Sajawal
+VM32892:3 Easah Suliman
+VM32892:3 Tariq Jahan
+VM32892:3 Imran Khalid
+VM32892:3 Mehfooz Hussain
+VM32892:3 Aftab Hamid
+VM32892:3 Yasir Raja
+VM32892:3 Selina Ali Khan
+VM32892:3 Nazia Hussian
+VM32892:3 Choudhary Qayum
+VM32892:3 Tanveer Ghazali
+VM32892:3 Ateeur Rehman
+VM32892:3 Neghat Khan
+VM32892:3 Ash Hussain
+VM32892:3 Bobs Zahid Suliman
+VM32892:3 Mohammed Abuzar
+VM32892:3 Mujtaba Ur Rehman
+VM32892:3 Amin Mohammed
+VM32892:3 Ansir Mahmood Ghazali
+VM32892:3 Arif Saddique
+VM32892:3 Zafran Khan
+VM32892:3 Akram Sharif
+VM32892:3 Sahiqa Hussain
+VM32892:3 Ch Asim Suleman Gujar
+VM32892:3 Akbar Khan
+VM32892:3 Sher Khan
+VM32892:3 Tasib Hussain Chaudhary
+VM32892:3 Ruby Khan
+VM32892:3 Mohammed Iqbal
+VM32892:3 Asad Mughal
+VM32892:3 Naeem Hussain Roopyal
+VM32892:3 Sai Muhammad Ramzan Haidri
+VM32892:3 Wasim Khan
+VM32892:3 Asif Iqbal
+VM32892:3 LimaLamin Jobe
+VM32892:3 Muhammad Ilyas
+VM32892:3 Mohammed Mumtaz
+VM32892:3 Shahzad Ilyas
+VM32892:3 Abdul Khaliq
+VM32892:3 Saqib Mushtaq
+VM32892:3 Zaheer Ahmed
+VM32892:3 Zahid Hussain
+VM32892:3 Iftikhar Khan Chughtai
+VM32892:3 Nasa Hsn
+VM32892:3 Ismaeel Mohammed
+VM32892:3 Ch Altaf Brooti Pti-n
+VM32892:3 Melissa De La Cruz
+VM32892:3 Haq Nawaz
+VM32892:3 Ateek Karim
+VM32892:3 Razwan Khan
+VM32892:3 Nasir Hussain
+VM32892:3 Zahid Iqbal
+VM32892:3 Ch Fareed

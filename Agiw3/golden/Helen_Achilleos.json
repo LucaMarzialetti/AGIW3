@@ -1,0 +1,29 @@
+{
+    "PATTERN": {
+        "tel": [
+            "0845 497 8160",
+            "+44 161 831 8160",
+            "0845 497 8888",
+            "+44 161 831 8888"
+        ],
+        "addr": ["M1 5ES"],
+        "email": []
+    },
+    "NER": {
+        "LOC": ["Manchester"],
+        "ORG": [
+            "United Kingdom Construction",
+            "United Kingdom Websites",
+            "Thomson Reuters",
+            "Facebook",
+            "Google"
+        ],
+        "PER": [
+            "Engineering Lawyer",
+            "Helen Achilleos",
+            "Helen Eversheds LLP Eversheds",
+            "Attorney"
+        ]
+    },
+    "url": "http://pview.findlaw.com/view/4763578_1"
+}

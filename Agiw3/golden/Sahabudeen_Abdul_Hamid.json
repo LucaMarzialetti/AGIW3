@@ -1,0 +1,30 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "Kishoreganj",
+            "PAHMC",
+            "Bangladesh"
+        ],
+        "ORG": [
+            "Abdul Hamid Medical College & Hospital",
+            "Abdul Hamid Medical College",
+            "Guru Dayal College",
+            "Dhaka Central Law College",
+            "Nikly GC High School",
+            "Kishoreganj Bar"
+        ],
+        "PER": [
+            "President Md Abdul Hamid",
+            "President Abdul Hamid",
+            "Rashida Hamid",
+            "President",
+            "Mithamoin Upazila"
+        ]
+    },
+    "url": "http://www.ahmc.edu.bd/"
+}

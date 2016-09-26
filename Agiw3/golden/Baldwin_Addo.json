@@ -1,0 +1,32 @@
+{
+    "PATTERN": {
+        "tel": [
+            "(516) 802-5388",
+            "(516) 802-5388",
+            "(516) 802-5388"
+        ],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "New York",
+            "Baldwin",
+            "Saint Louis San Antonio San Diego San Jose",
+            "Atlanta",
+            "Los Angeles",
+            "Detroit",
+            "Minneapolis",
+            "Cleveland",
+            "Denver",
+            "Dallas",
+            "Philadelphia"
+        ],
+        "ORG": [
+            "Addo Trucking",
+            "Addo Trucking Addo Trucking"
+        ],
+        "PER": ["Use About Partners Chamber Partner Program Chamber"]
+    },
+    "url": "https://www.chamberofcommerce.com/baldwin-ny/7150427-addo-trucking"
+}

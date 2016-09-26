@@ -1,0 +1,33 @@
+{
+    "PATTERN": {
+        "tel": ["08386600152"],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "dello sgozzamento",
+            "Festa Grande",
+            "Azerbaijan",
+            "Shuvalan",
+            "Baku",
+            "Hyderabad",
+            "edicola",
+            "India",
+            "Islamabad",
+            "Pakistan"
+        ],
+        "ORG": [
+            "sua volontà. Quelli della festa del sacrificio",
+            "sua fede",
+            "Arnoldo Mondadori Editore Spa"
+        ],
+        "PER": [
+            "Abraham",
+            "dello sgozzamento",
+            "Dio",
+            "Kumar A."
+        ]
+    },
+    "url": "http://archivio.panorama.it/foto/Islam-la-Festa-del-sacrificio-o-dello-sgozzamento2"
+}

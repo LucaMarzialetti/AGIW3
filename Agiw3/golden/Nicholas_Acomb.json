@@ -1,0 +1,21 @@
+{
+    "PATTERN": {
+        "tel": ["01483 563070"],
+        "addr": ["GU4 7AR"],
+        "email": ["nacomb8@aol.com"]
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "Nicholas Acomb Family",
+            "Nicholas Acomb Family Home",
+            "Rectory Close Merrow"
+        ],
+        "PER": [
+            "Nicholas",
+            "Raney",
+            "William Bond"
+        ]
+    },
+    "url": "http://www.genealogy.com/ftm/a/c/o/Nicholas--Acomb/index.html"
+}

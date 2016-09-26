@@ -1,0 +1,19 @@
+{
+    "PATTERN": {
+        "tel": ["0161 832 5000"],
+        "addr": ["M2 3NQ"],
+        "email": ["Kit@Stripes.eu"]
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "My Law Society",
+            "Solicitors Regulation Authority"
+        ],
+        "PER": [
+            "Daniel Francis",
+            "representative"
+        ]
+    },
+    "url": "http://solicitors.lawsociety.org.uk/person/274277/daniel-francis-adcock-kirsh"
+}

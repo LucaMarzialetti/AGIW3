@@ -1,0 +1,17 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [
+            "SY23 2AR",
+            "SY23 2AR",
+            "SY23 2AR"
+        ],
+        "email": []
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": ["Powell Davies Solicitors Limited"],
+        "PER": []
+    },
+    "url": "http://solicitors.lawsociety.org.uk/office/people/458338/powell-davies-solicitors-limited?Solicitors=True"
+}

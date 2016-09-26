@@ -1,0 +1,25 @@
+{
+    "PATTERN": {
+        "tel": [
+            "1897110901",
+            "3933333333"
+        ],
+        "addr": [
+            "E708KE",
+            "LK8 1HO",
+            "SS53SS",
+            "F0I7ND",
+            "BA88ET"
+        ],
+        "email": []
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "Kentuckiana Digital Library",
+            "Kentuckian Hopkinsville Kentuckian Chas"
+        ],
+        "PER": ["M. Meacham Hopkinsville"]
+    },
+    "url": "http://athena.uky.edu/static/news/hopnews/hopnews_KUK-hop1897110901.html"
+}

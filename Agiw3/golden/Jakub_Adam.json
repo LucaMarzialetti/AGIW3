@@ -1,0 +1,21 @@
+{
+    "PATTERN": {
+        "tel": [
+            "882 070 414",
+            "5732714316",
+            "243410043"
+        ],
+        "addr": [],
+        "email": ["trenerjakubadam@gmail.com"]
+    },
+    "NER": {
+        "LOC": ["Obozy Oferta zamowienie"],
+        "ORG": [],
+        "PER": [
+            "Analiza Dodatki",
+            "Jakub Adam",
+            "Komunikacja"
+        ]
+    },
+    "url": "http://jakubadam.pl/oferta/"
+}

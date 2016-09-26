@@ -1,0 +1,19 @@
+{
+    "PATTERN": {
+        "tel": ["0191 5842841"],
+        "addr": ["DH4 4AD"],
+        "email": ["reception@nicholson"]
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "My Law Society",
+            "Solicitors Regulation Authority"
+        ],
+        "PER": [
+            "Diane Abernethy",
+            "representative"
+        ]
+    },
+    "url": "http://solicitors.lawsociety.org.uk/person/280889/diane-abernethy"
+}

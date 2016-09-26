@@ -1,0 +1,55 @@
+--url_fb https://www.facebook.com/profile.php?id=100008374574410
+--friends
+VM3054:3 Kevin Hayles
+VM3054:3 Claire Freeman
+VM3054:3 Louise Pettigrew
+VM3054:3 Sarah Ollerton
+VM3054:3 Jane Eaves
+VM3054:3 Jackie Walsh Stedman
+VM3054:3 Emily-Grace Smith
+VM3054:3 Anne Hennessey
+VM3054:3 Julie Doughty
+VM3054:3 Paul Cope
+VM3054:3 Brenda Randles
+VM3054:3 Catherine Anderton
+VM3054:3 Margaret Cope
+VM3054:3 Lynne Cope
+VM3054:3 Tracy Hayes
+VM3054:3 Rachael Nurse
+VM3054:3 Andrea Chorlton
+VM3054:3 Hayley Louise Duggan
+VM3054:3 Bev Watson
+VM3054:3 Elaine Wright
+VM3054:3 Debs Graham
+VM3054:3 Kenneth Crabtree
+VM3054:3 Elizabeth Ann
+VM3054:3 Ann Smith
+VM3054:3 Lisa Jowle
+VM3054:3 Kelly Smith
+VM3054:3 Joan Thornton
+VM3054:3 Clare Jones
+VM3054:3 Lisa Taylor
+VM3054:3 Andrea Green
+VM3054:3 Bob Massey
+VM3054:3 Lindsey Jade Aspinall
+VM3054:3 Zoe Fisher
+VM3054:3 Debs Rimmer
+VM3054:3 Karen Robertson
+VM3054:3 Jake Gill
+VM3054:3 LekLek Mallika
+VM3054:3 Sarah Daintith
+VM3054:3 Susan Woodrow
+VM3054:3 Keith Doughty
+VM3054:3 Amy Doughty
+VM3054:3 Hannah Jowle
+VM3054:3 Jacinta Edgar
+VM3054:3 Amy Lycett
+VM3054:3 Ami-Louise Duggan
+VM3054:3 Schelley Lowe
+VM3054:3 Gail Green
+VM3054:3 Andrea Daintith
+VM3054:3 Robert Rimmer
+VM3054:3 Alison Grundy
+VM3054:3 Wyre Cricket Club
+VM3054:3 5th avenue Thornton
+VM3054:3 Grace & Favour Sewing School

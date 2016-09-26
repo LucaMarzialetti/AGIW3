@@ -1,0 +1,33 @@
+{
+    "PATTERN": {
+        "tel": [
+            "916271062",
+            "916271062"
+        ],
+        "addr": [
+            "G2 4QY",
+            "G2 4QY",
+            "NG13 8AP"
+        ],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "Glasgow",
+            "UK",
+            "SCOTLAND"
+        ],
+        "ORG": [
+            "ROBERT",
+            "Company Check Ltd",
+            "United Kingdom"
+        ],
+        "PER": [
+            "Mr Robert Douglas Aberdein",
+            "director",
+            "Mr Robert Douglas",
+            "ROBERT"
+        ]
+    },
+    "url": "https://companycheck.co.uk/director/916271062/MR-ROBERT-DOUGLAS-ABERDEIN/summary"
+}

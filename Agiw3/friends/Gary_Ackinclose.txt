@@ -1,0 +1,34 @@
+--url_fb https://www.facebook.com/profile.php?id=100011009292191
+--friends
+VM6931:3 Cindy Robinson
+VM6931:3 Craig Beauman
+VM6931:3 Lee Fiddes
+VM6931:3 Neil Ackinclose
+VM6931:3 Nina Berry
+VM6931:3 Cheryl Beaumont-Harrison
+VM6931:3 Neil Fraser
+VM6931:3 Victoria Bartle
+VM6931:3 Janet Fay
+VM6931:3 Phil Michael Pugh
+VM6931:3 David SkonZac Williams
+VM6931:3 Janette Johnson
+VM6931:3 Paul James Reynolds
+VM6931:3 Sharon Watson
+VM6931:3 Kate Speed
+VM6931:3 Alfie Bailey
+VM6931:3 Christopher Mitford
+VM6931:3 Mandy Smith
+VM6931:3 Nicola Emerson
+VM6931:3 Caroline Parkinson
+VM6931:3 Gemma Moore
+VM6931:3 Robert Doyle
+VM6931:3 Daniel Evans
+VM6931:3 Joshua Riffe
+VM6931:3 Kristine Louise Zuliani
+VM6931:3 Jayne Middleton Potter
+VM6931:3 Quentin Caisley
+VM6931:3 Nick Barnard
+VM6931:3 Peter Paterson
+VM6931:3 Michael Alan Smith
+VM6931:3 The Commissioners Quay Inn
+VM6931:3 Newcastle United

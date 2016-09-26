@@ -1,0 +1,13 @@
+{
+    "PATTERN": {
+        "tel": ["416-360-6336"],
+        "addr": [],
+        "email": ["Email:aabdel-aziz@heenanblaikie.com"]
+    },
+    "NER": {
+        "LOC": ["Toronto"],
+        "ORG": ["Environmental Law"],
+        "PER": ["Ahab"]
+    },
+    "url": "http://legal.advicescene.com/us/lawyer/ahab-abdel-aziz"
+}

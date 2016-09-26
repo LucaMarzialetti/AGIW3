@@ -1,0 +1,35 @@
+{
+    "PATTERN": {
+        "tel": [
+            "+44 121 232 1389",
+            "+44 121 232 1389"
+        ],
+        "addr": [],
+        "email": ["helenannable@eversheds.com"]
+    },
+    "NER": {
+        "LOC": [
+            "Estonia",
+            "Austria",
+            "China",
+            "Minworth"
+        ],
+        "ORG": [
+            "Eversheds International Eversheds Global Global English Global Français Global Español Global",
+            "Eversheds International",
+            "Eversheds International",
+            "Eversheds LLP",
+            "Mitchells & Butlers Retail Limited",
+            "Österreich Belgium China",
+            "Unipart Group of Companies",
+            "Midpoint Park",
+            "Hozelock Group"
+        ],
+        "PER": [
+            "Helen Annable",
+            "Partner",
+            "Iftkhar Ahmed"
+        ]
+    },
+    "url": "http://www.eversheds.com/global/en/who/people/index.page?person=en/Annable_Helen"
+}

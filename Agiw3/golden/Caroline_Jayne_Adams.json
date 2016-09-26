@@ -1,0 +1,26 @@
+{
+    "PATTERN": {
+        "tel": ["(312) 413-5353"],
+        "addr": [],
+        "email": ["jahh@uic.edu"]
+    },
+    "NER": {
+        "LOC": ["Chicago"],
+        "ORG": [
+            "Jane Addams Hull-House Museum",
+            "Museum Visit Visit The Museum",
+            "Hull-House Museum",
+            "Museum  T",
+            "UIC",
+            "West Side Teachers Institute",
+            "JAHHM",
+            "National Endowment",
+            "Public Square"
+        ],
+        "PER": [
+            "Jane Addams",
+            "Official"
+        ]
+    },
+    "url": "http://www.hullhousemuseum.org/"
+}

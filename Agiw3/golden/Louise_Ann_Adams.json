@@ -1,0 +1,16 @@
+{
+    "PATTERN": {
+        "tel": ["800-562-8860"],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": ["Beautiful Blossom"],
+        "ORG": [
+            "Lauren G. Adams LLC",
+            "Facebook"
+        ],
+        "PER": ["Lauren G Adams Lauren G Adams Lauren"]
+    },
+    "url": "http://www.laurengadams.com/"
+}

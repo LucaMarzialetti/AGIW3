@@ -1,0 +1,22 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "Leicester Crown Court",
+            "TheLawPages.Com Ltd",
+            "MAGISTRATES COURTS CROWN COURTS COURT",
+            "CROWN COURT",
+            "Apple"
+        ],
+        "PER": [
+            "LEGAL SUPPORT",
+            "Paul Anthony Abbott"
+        ]
+    },
+    "url": "http://www.thelawpages.com/court-cases/Paul-Anthony-Abbott-5472-1.law"
+}

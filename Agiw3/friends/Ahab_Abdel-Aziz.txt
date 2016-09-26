@@ -1,0 +1,132 @@
+--url_fb https://www.facebook.com/ahab.abdelaziz
+--friends
+VM1332:3 Caroline O'Neill Farag
+VM1332:3 Sami Halfawi
+VM1332:3 Mark Alberhasky
+VM1332:3 Hisham Fangary
+VM1332:3 Nora ElFangary
+VM1332:3 Magda Hanebach
+VM1332:3 Aysha Abdel-Aziz
+VM1332:3 Allan O'Marra
+VM1332:3 Dmitry Bratchuk
+VM1332:3 Svetlana Gradoboeva
+VM1332:3 Debra Jones
+VM1332:3 Saverio M Rinaldi
+VM1332:3 Jamie Smith
+VM1332:3 Jodie Willard
+VM1332:3 Seth Resnick
+VM1332:3 Oxana  Wolf
+VM1332:3 Ivan Whitehall
+VM1332:3 Maurizio Laudisa
+VM1332:3 Katrina Reyes Pepin
+VM1332:3 Andreas Papandreas
+VM1332:3 Ahmad Sheta
+VM1332:3 Maha Elfangary
+VM1332:3 Dionne Watson
+VM1332:3 Steven Sokalsky
+VM1332:3 Peter MacEwen
+VM1332:3 Oana Chivaran
+VM1332:3 Essam Kafafi
+VM1332:3 Essam Kafafi
+VM1332:3 Matthew Jesella
+VM1332:3 Jon Smithen
+VM1332:3 Marilena De Lazzari
+VM1332:3 Amina Jaheen
+VM1332:3 Matt Benson
+VM1332:3 Yulia  Chernyakhovskaya
+VM1332:3 Наталья Зобкова
+VM1332:3 Loralea Michaelis
+VM1332:3 Bart Sayle
+VM1332:3 Maha Sadek
+VM1332:3 Rami Elkerdani
+VM1332:3 Bonnie Roberts Jones
+VM1332:3 Michelle Olenick
+VM1332:3 Fady Mofeed
+VM1332:3 Jay Maisel
+VM1332:3 Sherif Sheta
+VM1332:3 Soha Halfawi
+VM1332:3 Moustafa Naguib
+VM1332:3 Alyssa Tomkins
+VM1332:3 Andrey Firsov
+VM1332:3 Jim Russell
+VM1332:3 Stephen Richardson
+VM1332:3 Galal Elkerdani
+VM1332:3 Marilyn Clarke
+VM1332:3 Safana Fekry
+VM1332:3 Mariam Hobeldin
+VM1332:3 Austin Norris
+VM1332:3 Philip White
+VM1332:3 Rawya Fakhr
+VM1332:3 Cristina Sales
+VM1332:3 Mary Aime
+VM1332:3 Ahmed Zaky
+VM1332:3 Анастасия Трофимова
+VM1332:3 Lynn Craig Powell
+VM1332:3 Zenren Smith
+VM1332:3 Nikita Petrenko
+VM1332:3 Tarek Sheta
+VM1332:3 Yelena Faynblyum Goren
+VM1332:3 Saeed Bagheri
+VM1332:3 Евгений Чеботарев
+VM1332:3 Stephane Beaulieu
+VM1332:3 Pavel Balabin
+VM1332:3 Nicola Siso
+VM1332:3 Tara King
+VM1332:3 Hussein Kamel
+VM1332:3 Priti Lamba
+VM1332:3 Alejandro Manevich
+VM1332:3 Geoffrey Klopp
+VM1332:3 Boris Kogrin
+VM1332:3 Andrey Chubarov
+VM1332:3 John Gieruszczak
+VM1332:3 Dinara Fomina
+VM1332:3 Ahmed Seta
+VM1332:3 Alice Yen Yong
+VM1332:3 Peter Barnicke
+VM1332:3 Marika Emma Tamm
+VM1332:3 Iman Hussein-Hobeldin
+VM1332:3 Philip Kremer
+VM1332:3 Boucher Roland
+VM1332:3 Livia Crispo
+VM1332:3 Amir Sayed Hobeldin
+VM1332:3 Debbie McGlynn
+VM1332:3 Larry Weidel
+VM1332:3 Pompeo Finelli
+VM1332:3 Joseph Caron
+VM1332:3 Alum Aisp
+VM1332:3 Michael Hollinger
+VM1332:3 Himanshu Acharya
+VM1332:3 Hatem Ghafir
+VM1332:3 Christine Turcot
+VM1332:3 Connie Dornberg
+VM1332:3 Lucy Medeiros
+VM1332:3 Elana Rabinovitch
+VM1332:3 Nicolas Leroy
+VM1332:3 May Zaki
+VM1332:3 Asif Khan
+VM1332:3 Mahmoud Ahmed Nabil Zaky
+VM1332:3 Linda Tranter
+VM1332:3 Nayera Hobeldin
+VM1332:3 Tena Palmer
+VM1332:3 Shadia Hobeldin
+VM1332:3 Dan Palayew
+VM1332:3 Allan Hawryluk
+VM1332:3 Jon Jennekens
+VM1332:3 Christian Monnin
+VM1332:3 Sarah Watson Parsons
+VM1332:3 Amal Alfangary
+VM1332:3 Omar Alghabra
+VM1332:3 Sandro Pelaccia
+VM1332:3 Gilles Leroy Brothers
+VM1332:3 Omar Hussein Abdel Bary
+VM1332:3 Hussein Helmy
+VM1332:3 Bob Dornberg
+VM1332:3 Alaa El-Fangary
+VM1332:3 Stephanie McCandless Reford
+VM1332:3 Jerry Waese
+VM1332:3 Terry Ashe
+VM1332:3 Omar Jaheen
+VM1332:3 Rennie Smith
+VM1332:3 Jim Perkins
+VM1332:3 Ayman Ghafir
+VM1332:3 Gavin Spielman

@@ -1,0 +1,27 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": ["Curvey"],
+        "ORG": [
+            "Pinterest",
+            "DAR"
+        ],
+        "PER": [
+            "Clair Abbott Claire Abbott",
+            "Claire Abbott",
+            "Claire Abbott Clair Abbott",
+            "Claire Abbott Abbott Kanadisch",
+            "Abbott Claire",
+            "Claire Abbott Kanadisch C",
+            "Abbott Curvey",
+            "Claire Abbot",
+            "Claire Abott",
+            "Diaz"
+        ]
+    },
+    "url": "https://uk.pinterest.com/adzyb123/claire-abbott/"
+}

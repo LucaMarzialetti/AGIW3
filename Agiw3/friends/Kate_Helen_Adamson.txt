@@ -1,0 +1,281 @@
+--url_fb https://www.facebook.com/kate.h.adamson
+--friends
+VM22608:3 Becky Reeves
+VM22608:3 Rachel L Kelly
+VM22608:3 Tony Harley
+VM22608:3 Dwynwen Huws
+VM22608:3 Ema Jones
+VM22608:3 James Wright
+VM22608:3 Nia Ann Jenkins
+VM22608:3 Laura Wright
+VM22608:3 Vivienne Taylor
+VM22608:3 Sian Tandy
+VM22608:3 Jessica Thomas
+VM22608:3 Sophie Thomas
+VM22608:3 Michelle Thomas
+VM22608:3 Gwawr Eira-Mair Evans
+VM22608:3 Lucy Davies
+VM22608:3 Elaine Rowlands
+VM22608:3 Julie Akkermans-Davies
+VM22608:3 Stephanie Lewis
+VM22608:3 Craig Adamson
+VM22608:3 Angharad Lewis
+VM22608:3 Jo Wright
+VM22608:3 Melltith Mawr
+VM22608:3 Clinton Jones
+VM22608:3 Hayley D'Alessio-Davies
+VM22608:3 Louise Forbes
+VM22608:3 Hallie Rogers
+VM22608:3 Sarah Murray
+VM22608:3 Dylan Jones
+VM22608:3 Alison Marsden
+VM22608:3 Ywain Ap Dylan
+VM22608:3 Llinos Evans
+VM22608:3 Dawn Lawson
+VM22608:3 Louise Thomas
+VM22608:3 Catrin Jones
+VM22608:3 Carol-Ann Kelly
+VM22608:3 Emma Adamson
+VM22608:3 Sarah Salthouse
+VM22608:3 Delyth Mair Williams
+VM22608:3 Helen Williams
+VM22608:3 Meinir Edwards
+VM22608:3 Carla Owen
+VM22608:3 Dylan Evans
+VM22608:3 Louisa Backway
+VM22608:3 Sioned Jones
+VM22608:3 Rudy Oosh
+VM22608:3 Angharad Warren-Jones
+VM22608:3 Cerith Jones
+VM22608:3 Yasir Akbar
+VM22608:3 David Adamson
+VM22608:3 Becky Wynn
+VM22608:3 Lindsey Elizabeth Butler
+VM22608:3 Nesta Eleri Jenkins
+VM22608:3 Enfys Williams
+VM22608:3 Gemma Bie
+VM22608:3 Krysty Mcdermott
+VM22608:3 Seán Kelly
+VM22608:3 Ffion Rees
+VM22608:3 Gabriella Jones
+VM22608:3 Ebonie Gethin-Thomas
+VM22608:3 Lynne Allen
+VM22608:3 Rhian Evans
+VM22608:3 Mark Adamson
+VM22608:3 Becky Taylor
+VM22608:3 Mandy Hellen Evans
+VM22608:3 Laura Lloyd-Fishburne
+VM22608:3 Hayley Grace
+VM22608:3 Elaine Torrens Smith
+VM22608:3 Nia Huws
+VM22608:3 Amanda Smith
+VM22608:3 Jane Stanley
+VM22608:3 Cassandra Robinson
+VM22608:3 Shannon Owen
+VM22608:3 Meryl James
+VM22608:3 Michael Robin Lewis
+VM22608:3 Lois Pugh
+VM22608:3 Leanne Pittam
+VM22608:3 Rachel Price
+VM22608:3 Glyn Tuck
+VM22608:3 Dylan Williams
+VM22608:3 Alison Peters
+VM22608:3 Jamie Couzens Thomas
+VM22608:3 Jan Thomas
+VM22608:3 Nerys Williams
+VM22608:3 Amanda Jane Jones
+VM22608:3 Siany Mckee
+VM22608:3 Christine LLoyd Mathias
+VM22608:3 Sophie Woodard
+VM22608:3 Carys Rachel Price-Jones
+VM22608:3 Llyr Jones
+VM22608:3 Kate Walsh
+VM22608:3 Elen Kate Jones
+VM22608:3 Mairead Hoyles
+VM22608:3 Victoria Evans
+VM22608:3 Mair Rees
+VM22608:3 Tudur Jenkins
+VM22608:3 Llion Ap Dylan
+VM22608:3 Cerys Potter-Jones
+VM22608:3 Rob Beck
+VM22608:3 Gwenllian Jones
+VM22608:3 Ruth Griffiths
+VM22608:3 Daniel Evans
+VM22608:3 Gemma Couzens
+VM22608:3 Dyfrig Williams
+VM22608:3 Sharon Roberts
+VM22608:3 Gemma Louise Griffiths
+VM22608:3 Ysgol Gynradd Dihewyd
+VM22608:3 Livvy Jones
+VM22608:3 Claire Jones
+VM22608:3 Donna Charmaine Jones
+VM22608:3 Louise Kennedy
+VM22608:3 Richard Colin
+VM22608:3 Carole Price
+VM22608:3 Lea Shipley
+VM22608:3 Coedy Cardi
+VM22608:3 Aled Davies
+VM22608:3 Gwenan Davies
+VM22608:3 Emyr Davies
+VM22608:3 Nick Jones
+VM22608:3 Nia Bates
+VM22608:3 Gavin Owen
+VM22608:3 Megan Thomas
+VM22608:3 Dylan Hedd
+VM22608:3 Laura Lewis
+VM22608:3 Sonia Scott
+VM22608:3 Rhys 'Pentre' Jones
+VM22608:3 Sarah Challinor
+VM22608:3 Justin Kelly
+VM22608:3 Joanne Whitfield
+VM22608:3 Teleri Davies
+VM22608:3 Rhian Davies
+VM22608:3 Erin Morgan
+VM22608:3 Darren Baker
+VM22608:3 Nia Elen Roberts
+VM22608:3 Steve Jones
+VM22608:3 Chris Mahoney
+VM22608:3 Gwern Thomas
+VM22608:3 Cerys Percival
+VM22608:3 Aled Cacen Evans
+VM22608:3 Michelle Williams
+VM22608:3 Laura Burton
+VM22608:3 Kimberley Cosgrove
+VM22608:3 Daniel Hughes
+VM22608:3 Ceri Meredydd
+VM22608:3 Kim Fisher
+VM22608:3 Christine O'Rorke
+VM22608:3 Catrin Mair Rowcliffe
+VM22608:3 Lia Mariesa Murphy
+VM22608:3 Mel Blaney
+VM22608:3 Anwen Hughes
+VM22608:3 Jinny Hossain
+VM22608:3 Lona Jones
+VM22608:3 Deiniol Bigd Evans
+VM22608:3 Tony Priestley
+VM22608:3 Sara Jenkins
+VM22608:3 Daisy Taylor
+VM22608:3 Meriel Williams
+VM22608:3 Sian Andrews
+VM22608:3 Lisa Lim
+VM22608:3 Steven Williams
+VM22608:3 Sara Tompkin
+VM22608:3 Laura Parry
+VM22608:3 Shakira Profit
+VM22608:3 Anna A Aeron Lewis
+VM22608:3 Kieron Crewe
+VM22608:3 Neil Snowdon
+VM22608:3 Josh Owen
+VM22608:3 Pat Mcdermott
+VM22608:3 Sue Zachary
+VM22608:3 Madelaine Mcdermott
+VM22608:3 Fiona Jenkins
+VM22608:3 Nikki Pyke
+VM22608:3 Simon Williams
+VM22608:3 Amie Victoria Angilletta
+VM22608:3 Kelly Steen
+VM22608:3 Lan Llofft
+VM22608:3 Marian Adamson
+VM22608:3 Stephanie Parker
+VM22608:3 Stephanie Middlewick
+VM22608:3 Tina Williams
+VM22608:3 Enfys Price
+VM22608:3 Owain Peckover
+VM22608:3 Claire Alway
+VM22608:3 Gary Frankham
+VM22608:3 Arwyn Jenkins
+VM22608:3 Miriam Ifans
+VM22608:3 Tom Blow
+VM22608:3 Carly Podger
+VM22608:3 Louisa Whitehead
+VM22608:3 Rhian Wyn
+VM22608:3 Liz Kennedy
+VM22608:3 Joanne Meredith
+VM22608:3 Elfed Evans
+VM22608:3 Bethany Danton
+VM22608:3 Sara Morgans
+VM22608:3 Heather Thomas
+VM22608:3 Frances Jones
+VM22608:3 Clare Leather-Day
+VM22608:3 Lisa Claire Roberts
+VM22608:3 Chris Evans
+VM22608:3 Bethan Adamson
+VM22608:3 Caryl Roberts
+VM22608:3 Zoe Beddows
+VM22608:3 Russ James
+VM22608:3 A James Mac
+VM22608:3 Snowy Walley
+VM22608:3 Kev Sharley
+VM22608:3 Daniel Evans
+VM22608:3 Nerys Williams
+VM22608:3 Sean Westall-king
+VM22608:3 Leyna Stewart
+VM22608:3 Rhiannon Jones
+VM22608:3 Lorna Worrall
+VM22608:3 Sarah Leech-Weatherley
+VM22608:3 Shameem Khan
+VM22608:3 Will Morrison
+VM22608:3 Joanne Last
+VM22608:3 Lucy Baines
+VM22608:3 Gareth Humphreys
+VM22608:3 Wishing Wells Ofwales
+VM22608:3 Eurig James
+VM22608:3 James Brunton
+VM22608:3 Michael Williams
+VM22608:3 Joanne Dawson
+VM22608:3 Daniel Wynn-Chandra
+VM22608:3 Sophie Williams
+VM22608:3 Gazanfer Ali
+VM22608:3 Lucy Trinder
+VM22608:3 Edward Nutting
+VM22608:3 Sarah Salmon
+VM22608:3 Dan Downes
+VM22608:3 Dean Warren
+VM22608:3 Aled Lloyd
+VM22608:3 Intrim Llay
+VM22608:3 Melissa Ashworth
+VM22608:3 Amie Angiletta
+VM22608:3 Steve Barnard
+VM22608:3 Jayne Helen Fielding
+VM22608:3 Sarah Stephens
+VM22608:3 Donna Clement Richards
+VM22608:3 Paula Jayne Bowler
+VM22608:3 Helena Doyle
+VM22608:3 Amy Jackson
+VM22608:3 Alison Evans
+VM22608:3 Karen Rogers
+VM22608:3 Louise Povey
+VM22608:3 Sara Ockenden
+VM22608:3 Alex Darcy
+VM22608:3 Jon Carlsberg Felton
+VM22608:3 Brian Ian Edwards
+VM22608:3 Bex Preston
+VM22608:3 Stacy Matthias
+VM22608:3 Jenny Morris
+VM22608:3 Phil Ridge
+VM22608:3 Jessica Randles
+VM22608:3 Hannah Morris
+VM22608:3 Kevin Jones
+VM22608:3 Jon Gilbert
+VM22608:3 John Jenkin Jones
+VM22608:3 Mike Price
+VM22608:3 John Rhys Jones
+VM22608:3 Zoe Mott-Peters
+VM22608:3 Mike Darlington
+VM22608:3 Sharon Klaces
+VM22608:3 Simon O'Dare
+VM22608:3 Gazz Wilford
+VM22608:3 Gareth Kirkham
+VM22608:3 Lisa Solari
+VM22608:3 Paul Webb
+VM22608:3 Gavin Lundrigan
+VM22608:3 Ethan White
+VM22608:3 Jonathon Rush
+VM22608:3 Bisi Reid
+VM22608:3 David Gard
+VM22608:3 Phil Bowen
+VM22608:3 Jaclyn Smith
+VM22608:3 Ffion Owen
+VM22608:3 Sian Jones
+VM22608:3 Steven Guy
+VM22608:3 Louise Cullum

@@ -1,0 +1,19 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": ["WS13 6DP"],
+        "email": ["fa@adcocks.com"]
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [
+            "My Law Society",
+            "Solicitors Regulation Authority"
+        ],
+        "PER": [
+            "Hedley John Adcock",
+            "representative"
+        ]
+    },
+    "url": "http://solicitors.lawsociety.org.uk/person/5862/hedley-john-adcock"
+}

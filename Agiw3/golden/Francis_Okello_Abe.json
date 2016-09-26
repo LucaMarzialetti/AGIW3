@@ -1,0 +1,28 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [
+            "SL3 8LS",
+            "SL3 8LS",
+            "NG13 8AP"
+        ],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "Langley",
+            "UK"
+        ],
+        "ORG": [
+            "Marish Court",
+            "Company Check Ltd",
+            "United Kingdom"
+        ],
+        "PER": [
+            "MR FRANK OKELLO ABE",
+            "director",
+            "Secretary"
+        ]
+    },
+    "url": "https://companycheck.co.uk/director/913339122/MR-FRANK-OKELLO-ABE/companies"
+}

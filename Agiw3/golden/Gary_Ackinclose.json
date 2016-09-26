@@ -1,0 +1,31 @@
+{
+    "PATTERN": {
+        "tel": [
+            "0191 296 1777",
+            "0191 257 9326"
+        ],
+        "addr": ["NE30 1QQ"],
+        "email": ["john.inman@hindle"]
+    },
+    "NER": {
+        "LOC": [
+            "England",
+            "Wales"
+        ],
+        "ORG": [
+            "Hindle Campbell Law",
+            "HC Law LLP",
+            "Employment Tribunals",
+            "Solicitors Regulation Authority",
+            "Safety Tribunal",
+            "Northumberland Square"
+        ],
+        "PER": [
+            "Hindle Campbell",
+            "Court representation Mediation representation Directors",
+            "Cristina Falzon",
+            "John Inman"
+        ]
+    },
+    "url": "http://www.hindle-campbell.co.uk/employment.html"
+}

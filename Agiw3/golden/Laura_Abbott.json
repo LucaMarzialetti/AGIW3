@@ -1,0 +1,22 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": ["Waterford"],
+        "ORG": [
+            "Facebook",
+            "Twitter",
+            "LinkedIn"
+        ],
+        "PER": [
+            "Dr. Laura Abbott",
+            "family physician",
+            "Diabetic Retinopathy",
+            "Personal Trainer"
+        ]
+    },
+    "url": "http://www.healthchoicesfirst.com/practitioner/dr-laura-abbott-family-doctor-waterford-nb"
+}

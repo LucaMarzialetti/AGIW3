@@ -1,0 +1,55 @@
+--url_fb https://www.facebook.com/profile.php?id=100008374574410
+--friends
+VM5793:3 Andrea Chorlton
+VM5793:3 Rachael Nurse
+VM5793:3 Brenda Randles
+VM5793:3 Sarah Ollerton
+VM5793:3 Louise Pettigrew
+VM5793:3 Jane Eaves
+VM5793:3 Lynne Cope
+VM5793:3 Julie Doughty
+VM5793:3 Bev Watson
+VM5793:3 Tracy Hayes
+VM5793:3 Paul Cope
+VM5793:3 Emily-Grace Smith
+VM5793:3 Hayley Louise Duggan
+VM5793:3 Margaret Cope
+VM5793:3 Anne Hennessey
+VM5793:3 Claire Freeman
+VM5793:3 Kevin Hayles
+VM5793:3 Jackie Walsh Stedman
+VM5793:3 Elaine Wright
+VM5793:3 Catherine Anderton
+VM5793:3 Jake Gill
+VM5793:3 Keith Doughty
+VM5793:3 Lisa Taylor
+VM5793:3 LekLek Mallika
+VM5793:3 Lindsey Jade Aspinall
+VM5793:3 Ann Smith
+VM5793:3 Susan Woodrow
+VM5793:3 Debs Rimmer
+VM5793:3 Sarah Daintith
+VM5793:3 Debs Graham
+VM5793:3 Andrea Green
+VM5793:3 Elizabeth Ann
+VM5793:3 Kenneth Crabtree
+VM5793:3 Zoe Fisher
+VM5793:3 Bob Massey
+VM5793:3 Clare Jones
+VM5793:3 Lisa Jowle
+VM5793:3 Karen Robertson
+VM5793:3 Joan Thornton
+VM5793:3 Kelly Smith
+VM5793:3 Ami-Louise Duggan
+VM5793:3 Robert Rimmer
+VM5793:3 Alison Grundy
+VM5793:3 Hannah Jowle
+VM5793:3 Amy Doughty
+VM5793:3 Gail Green
+VM5793:3 Schelley Lowe
+VM5793:3 Andrea Daintith
+VM5793:3 Jacinta Edgar
+VM5793:3 Amy Lycett
+VM5793:3 Wyre Cricket Club
+VM5793:3 5th avenue Thornton
+VM5793:3 Grace & Favour Sewing School

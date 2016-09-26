@@ -1,0 +1,26 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "Toronto",
+            "Hollywood"
+        ],
+        "ORG": [
+            "Amazon",
+            "IMDb"
+        ],
+        "PER": [
+            "Louisa Adams",
+            "Jill Soloway",
+            "Eva Longoria",
+            "Official",
+            "Lou  2015/I",
+            "Professional Services"
+        ]
+    },
+    "url": "http://www.imdb.com/name/nm6582190/"
+}

@@ -1,0 +1,18 @@
+{
+    "PATTERN": {
+        "tel": [],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [],
+        "ORG": [],
+        "PER": [
+            "Alaa Abbas",
+            "Noura Semary",
+            "Mohiy Hadhoud",
+            "Publisher"
+        ]
+    },
+    "url": "http://core.ac.uk/display/22191073"
+}

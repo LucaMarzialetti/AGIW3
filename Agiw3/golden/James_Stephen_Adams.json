@@ -1,0 +1,23 @@
+{
+    "PATTERN": {
+        "tel": ["(903) 757-3311"],
+        "addr": [],
+        "email": []
+    },
+    "NER": {
+        "LOC": [
+            "Longview",
+            "Methvin St. Longview",
+            "Rosewood Park"
+        ],
+        "ORG": ["Rader Funeral Home"],
+        "PER": [
+            "James Stephen Adams",
+            "Cass Gregg Harrison Marion Morris Panola Rusk",
+            "James Stephen",
+            "Steve'' Adams",
+            "Editor"
+        ]
+    },
+    "url": "https://www.news-journal.com/obituaries/2010/jun/18/james-stephen-adams/"
+}
