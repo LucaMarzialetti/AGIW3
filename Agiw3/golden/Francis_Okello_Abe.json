@@ -4,14 +4,20 @@
         "addr": [
             "SL3 8LS",
             "SL3 8LS",
-            "NG13 8AP"
+            "NG13 8AP",
+            "18a Market Place"
         ],
         "email": []
     },
     "NER": {
         "LOC": [
             "Langley",
-            "UK"
+            "UK",
+            "Berkshire",
+            "Slough",
+            "Bingham",
+            "Nottinghamshire",
+            "United Kingdom"
         ],
         "ORG": [
             "Marish Court",

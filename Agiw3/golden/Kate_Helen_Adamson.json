@@ -4,14 +4,19 @@
         "addr": [
             "SY23 2AR",
             "SY23 2AR",
-            "SY23 2AR"
+            "SY23 2AR",
+            "Market Chambers 27 Eastgate",
+            "Aberystwyth",
+            "Ceredigion"
         ],
         "email": []
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["Wales"],
         "ORG": ["Powell Davies Solicitors Limited"],
-        "PER": []
+        "PER": ["Kate Helen Adamson",
+            "David Martin James Davies",
+            "Jonathan Owen Powell"]
     },
     "url": "http://solicitors.lawsociety.org.uk/office/people/458338/powell-davies-solicitors-limited?Solicitors=True"
 }

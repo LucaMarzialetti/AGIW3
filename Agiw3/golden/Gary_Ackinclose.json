@@ -4,7 +4,8 @@
             "0191 296 1777",
             "0191 257 9326"
         ],
-        "addr": ["NE30 1QQ"],
+        "addr": ["NE30 1QQ",
+            "8 Northumberland Square North Shields"],
         "email": ["john.inman@hindle"]
     },
     "NER": {

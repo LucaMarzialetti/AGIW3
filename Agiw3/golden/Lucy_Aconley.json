@@ -2,7 +2,8 @@
     "PATTERN": {
         "tel": [
             "01582 469003",
-            "01582 469003"
+            "01582 469003",
+            "1 Valley Rise, Wheathampstead, Herts"
         ],
         "addr": [
             "AL4 8JF",
@@ -16,7 +17,9 @@
             "Hertfordshire",
             "England",
             "London",
-            "Wales"
+            "Wales",
+            "Bedfordshire",
+            "Buckinghamshire"
         ],
         "ORG": [
             "Ian Scott Photography Lucy",

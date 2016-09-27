@@ -6,7 +6,6 @@
     },
     "NER": {
         "LOC": [
-            "dello sgozzamento",
             "Festa Grande",
             "Azerbaijan",
             "Shuvalan",
@@ -18,15 +17,14 @@
             "Pakistan"
         ],
         "ORG": [
-            "sua volontà. Quelli della festa del sacrificio",
-            "sua fede",
             "Arnoldo Mondadori Editore Spa"
         ],
         "PER": [
             "Abraham",
-            "dello sgozzamento",
             "Dio",
-            "Kumar A."
+            "Mahesh Kumar A.",
+            "Abramo",
+            "Anjum Naveed"
         ]
     },
     "url": "http://archivio.panorama.it/foto/Islam-la-Festa-del-sacrificio-o-dello-sgozzamento2"

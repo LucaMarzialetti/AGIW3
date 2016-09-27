@@ -5,28 +5,39 @@
             "(516) 802-5388",
             "(516) 802-5388"
         ],
-        "addr": [],
+        "addr": ["839 Hastings St  Baldwin, New York 11510"],
         "email": []
     },
     "NER": {
         "LOC": [
             "New York",
             "Baldwin",
-            "Saint Louis San Antonio San Diego San Jose",
             "Atlanta",
-            "Los Angeles",
-            "Detroit",
-            "Minneapolis",
+            "Bronx",
+            "Brooklyn",
+            "Chicago",
             "Cleveland",
-            "Denver",
             "Dallas",
-            "Philadelphia"
+            "Denver",
+            "Detroit",
+            "Houston",
+            "Las Vegas",
+            "Los Angeles",
+            "Miami",
+            "Minneapolis",
+            "New York",
+            "Philadelphia",
+            "Phoenix",
+            "Saint Louis",
+            "San Antonio",
+            "San Diego",
+            "San Jose"
         ],
         "ORG": [
             "Addo Trucking",
             "Addo Trucking Addo Trucking"
         ],
-        "PER": ["Use About Partners Chamber Partner Program Chamber"]
+        "PER": []
     },
     "url": "https://www.chamberofcommerce.com/baldwin-ny/7150427-addo-trucking"
 }

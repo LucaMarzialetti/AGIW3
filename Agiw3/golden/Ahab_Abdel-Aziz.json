@@ -1,12 +1,18 @@
 {
     "PATTERN": {
         "tel": ["416-360-6336"],
-        "addr": [],
+        "addr": ["Ste 2600, Royal Bank Plaza, South Tower",
+            "200 Bay Street, P.O. Box 185",
+            "Toronto, ON M5J 2J4"],
         "email": ["Email:aabdel-aziz@heenanblaikie.com"]
     },
     "NER": {
-        "LOC": ["Toronto"],
-        "ORG": ["Environmental Law"],
+        "LOC": ["Toronto",
+            "Canada",
+            "Ontario",
+            ""],
+        "ORG": ["Environmental Law",
+            "Heenan Blaikie LLP"],
         "PER": ["Ahab"]
     },
     "url": "http://legal.advicescene.com/us/lawyer/ahab-abdel-aziz"

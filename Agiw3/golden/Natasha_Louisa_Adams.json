@@ -11,15 +11,16 @@
         ],
         "ORG": [
             "Amazon",
-            "IMDb"
+            "IMDb",
+            "Facebook"
         ],
         "PER": [
             "Louisa Adams",
             "Jill Soloway",
             "Eva Longoria",
-            "Official",
-            "Lou  2015/I",
-            "Professional Services"
+            "Lou",
+            "Professional Services",
+            "Clara"
         ]
     },
     "url": "http://www.imdb.com/name/nm6582190/"

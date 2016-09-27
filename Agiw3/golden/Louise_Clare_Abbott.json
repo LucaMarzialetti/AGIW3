@@ -1,27 +1,22 @@
 {
     "PATTERN": {
-        "tel": [],
+        "tel": ["(979) 845-2269"],
         "addr": [],
         "email": []
     },
     "NER": {
-        "LOC": ["Curvey"],
+        "LOC": ["Illinois"],
         "ORG": [
-            "Pinterest",
-            "DAR"
+            "University of Washingtion",
+            "CVM Communications",
+            "Washington State University",
+            "Whitman College"
         ],
         "PER": [
-            "Clair Abbott Claire Abbott",
-            "Claire Abbott",
-            "Claire Abbott Clair Abbott",
-            "Claire Abbott Abbott Kanadisch",
-            "Abbott Claire",
-            "Claire Abbott Kanadisch C",
-            "Abbott Curvey",
-            "Claire Abbot",
-            "Claire Abott",
-            "Diaz"
+            "Illinois Research Anatomy Cell Biology Environmental Health Toxicology Neuroscience Interdisciplinary Activities Neuroscience Toxicology Scholarly Interests developmental toxicology",
+            "Louise Abbott",
+            "Professor"
         ]
     },
-    "url": "https://uk.pinterest.com/adzyb123/claire-abbott/"
+    "url": "http://vetmed.tamu.edu/vibs/directorydetail?userid=334"
 }

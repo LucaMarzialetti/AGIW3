@@ -1,11 +1,13 @@
 {
     "PATTERN": {
         "tel": ["01483 563070"],
-        "addr": ["GU4 7AR"],
+        "addr": ["GU4 7AR",
+            "Guildford,Surrey"],
         "email": ["nacomb8@aol.com"]
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["Great Britain",
+            "England"],
         "ORG": [
             "Nicholas Acomb Family",
             "Nicholas Acomb Family Home",

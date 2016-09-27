@@ -6,6 +6,7 @@
     },
     "NER": {
         "LOC": [
+            "Westminster Abbey",
             "Cambridge",
             "Launceston",
             "England",
@@ -15,22 +16,29 @@
             "St John's College",
             "Westminster Abbey Library",
             "Westminster Abbey",
+            "UNESCO",
             "Cambridge Observatory",
             "St Giles cemetery"
         ],
         "PER": [
             "John Couch Adams",
-            "William Grylls Adams",
+            "Albert Bruce-Joy",
             "Thomas Adams",
             "John Couch",
             "John",
-            "Albert Bruce-Joy",
-            "Elizabeth Bruce",
             "Newton",
             "Tabitha",
+            "William Grylls Adams",
             "professor",
+            "Elizabeth Bruce",
             "Director",
-            "George"
+            "William",
+            "George",
+            "Darwin",
+            "G.G.Stokes",
+            "Scientist",
+            "mathematician",
+            "astronomer"
         ]
     },
     "url": "http://www.westminster-abbey.org/our-history/people/john-couch-adams"

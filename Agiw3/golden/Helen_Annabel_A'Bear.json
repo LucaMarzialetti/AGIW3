@@ -12,7 +12,9 @@
             "Estonia",
             "Austria",
             "China",
-            "Minworth"
+            "Minworth",
+            "United Kingdom",
+            "Midlands"
         ],
         "ORG": [
             "Eversheds International Eversheds Global Global English Global Français Global Español Global",
@@ -21,9 +23,9 @@
             "Eversheds LLP",
             "Mitchells & Butlers Retail Limited",
             "Österreich Belgium China",
-            "Unipart Group of Companies",
             "Midpoint Park",
-            "Hozelock Group"
+            "Hozelock Group",
+            "Unipart Group of Companies"
         ],
         "PER": [
             "Helen Annable",

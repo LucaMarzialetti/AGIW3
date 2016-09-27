@@ -5,7 +5,8 @@
         "email": []
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["England",
+            "Wales"],
         "ORG": [
             "Leicester Crown Court",
             "TheLawPages.Com Ltd",

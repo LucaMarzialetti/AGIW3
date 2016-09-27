@@ -1,14 +1,20 @@
 {
     "PATTERN": {
-        "tel": ["0844 245 4000"],
+        "tel": ["0844 245 4000",
+            "+44 (0)20 7320 5757"],
         "addr": ["LS3 1AB"],
         "email": ["MBX_PLX_GeneralHRQueries@Plexuslaw.co.uk"]
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["Leeds",
+            "England"],
         "ORG": [
             "My Law Society",
-            "Solicitors Regulation Authority"
+            "Solicitors Regulation Authority",
+            "Plexus Law Limited",
+            "Joseph's Well",
+            "Hanover Walk"
+            
         ],
         "PER": [
             "Naima Abdul-Rasool",

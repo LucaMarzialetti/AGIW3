@@ -6,12 +6,15 @@
             "0845 497 8888",
             "+44 161 831 8888"
         ],
-        "addr": ["M1 5ES"],
+        "addr": ["M1 5ES",
+            "70 Great Bridgewater Street"],
         "email": []
     },
     "NER": {
-        "LOC": ["Manchester"],
+        "LOC": ["Manchester",
+            "United Kingdom"],
         "ORG": [
+            "Eversheds House",
             "United Kingdom Construction",
             "United Kingdom Websites",
             "Thomson Reuters",

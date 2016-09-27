@@ -1,7 +1,8 @@
 {
     "PATTERN": {
         "tel": ["(903) 757-3311"],
-        "addr": [],
+        "addr": ["320 E. Methvin St. Longview",
+        "TX 75601"],
         "email": []
     },
     "NER": {
@@ -10,12 +11,14 @@
             "Methvin St. Longview",
             "Rosewood Park"
         ],
-        "ORG": ["Rader Funeral Home"],
+        "ORG": ["Rader Funeral Home",
+            "Facebook",
+            "Twitter"],
         "PER": [
             "James Stephen Adams",
             "Cass Gregg Harrison Marion Morris Panola Rusk",
             "James Stephen",
-            "Steve'' Adams",
+            "Steve Adams",
             "Editor"
         ]
     },

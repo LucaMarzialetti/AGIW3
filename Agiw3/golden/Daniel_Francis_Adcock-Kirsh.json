@@ -1,14 +1,25 @@
 {
     "PATTERN": {
-        "tel": ["0161 832 5000"],
+        "tel": ["0161 832 5000",
+            "+44 (0)20 7320 5757",
+            "0345 402 0001"
+        ],
         "addr": ["M2 3NQ"],
         "email": ["Kit@Stripes.eu"]
     },
     "NER": {
-        "LOC": [],
+        "LOC": [
+            "Spinningfields",
+            "Manchester",
+            "Lancashire",
+            "England"
+            ],
         "ORG": [
             "My Law Society",
-            "Solicitors Regulation Authority"
+            "Solicitors Regulation Authority",
+            "JMW Solicitors LLP ",
+            "1 Byrom Place",
+            "M3 3HG"
         ],
         "PER": [
             "Daniel Francis",

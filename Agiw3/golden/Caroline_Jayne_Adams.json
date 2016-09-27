@@ -1,7 +1,9 @@
 {
     "PATTERN": {
         "tel": ["(312) 413-5353"],
-        "addr": [],
+        "addr": ["800 S. Halsted Street (M/C 051)",
+            "Chicago IL",
+            "60607-7017"],
         "email": ["jahh@uic.edu"]
     },
     "NER": {

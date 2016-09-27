@@ -1,12 +1,18 @@
 {
     "PATTERN": {
-        "tel": [],
-        "addr": ["WS13 6DP"],
+        "tel": ["08454 70 80 81",
+            "+44 (0)20 7320 5757"],
+        "addr": ["WS13 6DP",
+            "27 Lombard Street"],
         "email": ["fa@adcocks.com"]
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["Lichfield",
+        "Staffordshire",
+        "England"],
         "ORG": [
+            "Adcocks Solicitors Limited",
+            "Chancery House",
             "My Law Society",
             "Solicitors Regulation Authority"
         ],

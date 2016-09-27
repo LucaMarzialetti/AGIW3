@@ -8,7 +8,8 @@
         "LOC": [
             "Kishoreganj",
             "PAHMC",
-            "Bangladesh"
+            "Bangladesh",
+            "Kamalpur"
         ],
         "ORG": [
             "Abdul Hamid Medical College & Hospital",
@@ -16,14 +17,16 @@
             "Guru Dayal College",
             "Dhaka Central Law College",
             "Nikly GC High School",
-            "Kishoreganj Bar"
+            "Kishoreganj Bar",
+            "Government of Bangladesh"
         ],
         "PER": [
             "President Md Abdul Hamid",
             "President Abdul Hamid",
             "Rashida Hamid",
             "President",
-            "Mithamoin Upazila"
+            "Mithamoin Upazila",
+            "Rashida Hamid"
         ]
     },
     "url": "http://www.ahmc.edu.bd/"

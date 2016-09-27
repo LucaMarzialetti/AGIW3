@@ -1,14 +1,21 @@
 {
     "PATTERN": {
-        "tel": ["0191 5842841"],
+        "tel": ["0191 5842841",
+            "+44 (0)20 7320 5757"],
         "addr": ["DH4 4AD"],
         "email": ["reception@nicholson"]
     },
     "NER": {
-        "LOC": [],
+        "LOC": ["England"],
         "ORG": [
             "My Law Society",
-            "Solicitors Regulation Authority"
+            "Solicitors Regulation Authority",
+            "Nicholson Martin Legge & Miller",
+            "Scruton House",
+            "Newbottle Street",
+            "Houghton Le Spring",
+            "Tyne and Wear",
+            "DH4 4AD"
         ],
         "PER": [
             "Diane Abernethy",
